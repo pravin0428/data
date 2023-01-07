@@ -9,9 +9,13 @@
     }
   ],
 
-  "tasks" : [
+  "tasks": [
     {
-      "text" : "rfdsfsf"
+      "id": "0o5hQ0c",
+      "username": "w",
+      "email": "w@gmail.com",
+      "password": "w",
+      "confirm_pass": "w"
     }
   ],
 
