@@ -5,7 +5,8 @@
       "username": "w",
       "email": "w@gmail.com",
       "password": "w",
-      "confirm_pass": "w"
+      "confirm_pass": "w",
+      "task" : []
     }
   ],
 
