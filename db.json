@@ -48,7 +48,7 @@
       "Price": 500000
     }
   ],
-  "signup" : [
+  "dataSign" : [
     {
       "email" : "xyz@gmail.com",
       "username" : "xyz",
@@ -56,13 +56,11 @@
       "confirm_pass" : "123"
     }
   ],
-  "login" : [
+  "dataLog" : [
     {
       "username" : "xyz",
       "password" : "123" 
     }
-  ],
-  "task_data" : [
-  
   ]
+ 
  }
