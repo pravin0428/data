@@ -1,66 +1,49 @@
 {
-    "data": [
-      {
-        "id": "21",
-        "name": "chole",
-        "price": "213"
-      },
-      {
-        "id": "4EproDm",
-        "name": "lenovo_ideapad",
-        "price": "324"
-      },
-      {
-        "id": "FGp5boG",
-        "name": "again uptated chole",
-        "price": "34535"
-      }
-    ],
+  "data": [
+    {
+      "id": "0o5hQ0c",
+      "username": "w",
+      "email": "w@gmail.com",
+      "password": "w",
+      "confirm_pass": "w"
+    }
+  ],
 
-    "cars": [
-        {
-          "id": 1,
-          "brand": "Tata",
-          "type":"Manual",
-          "year": 2019,
-          "kms": 10000,
-          "Description": "Tata Altroz with all original documents",
-          "Price": 500000
-        },
-        {
-          "id": 2,
-          "brand": "Tata",
-          "type":"AMT",
-          "year": 2017,
-          "kms": 8000,
-          "Description": "Tata Nexon with all original documents",
-          "Price": 800000
-        }
-      ] ,
+  "tasks" : [
+    {
+      "text" : "rfdsfsf"
+    }
+  ],
+
+  "cars": [
+    {
+      "id": 1,
+      "brand": "Tata",
+      "type": "Manual",
+      "year": 2019,
+      "kms": 10000,
+      "Description": "Tata Altroz with all original documents",
+      "Price": 500000
+    },
+    {
+      "id": 2,
+      "brand": "Tata",
+      "type": "AMT",
+      "year": 2017,
+      "kms": 8000,
+      "Description": "Tata Nexon with all original documents",
+      "Price": 800000
+    }
+  ],
   "wishlisted_cars": [
     {
       "id": 1,
       "brand": "Tata",
       "year": 2019,
-			"type":"Manual",
+      "type": "Manual",
       "kms": 10000,
       "Description": "Tata Altroz with all original documents",
       "Price": 500000
     }
-  ],
-  "dataSign" : [
-    {
-      "email" : "xyz@gmail.com",
-      "username" : "xyz",
-      "password" : "123",
-      "confirm_pass" : "123"
-    }
-  ],
-  "dataLog" : [
-    {
-      "username" : "xyz",
-      "password" : "123" 
-    }
   ]
- 
- }
+}
